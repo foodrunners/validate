@@ -1,0 +1,9 @@
+# AI Context for IFC Validation Project
+
+This directory contains essential documentation for AI assistants working on this codebase.
+
+## Read These First
+
+Any AI working on this project should start here before making changes.
+
+See [README.md](./README.md) for detailed instructions.
